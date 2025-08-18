@@ -1,7 +1,6 @@
-#include<include>
-using namespace stf;
-int main()
-{
-    printf("Hello! I have just started C learning...")
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
     return 0;
 }
